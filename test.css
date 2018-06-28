@@ -1,0 +1,49 @@
+body{
+	background-image: url("img/background.jpg");
+	font-family: sans-serif;
+
+}
+.myheader{
+	background-color: #fff;
+
+}
+.navbar-myprimary{
+	background: #a1a1e4;
+	border-color: purple;
+}
+.padding{padding: 1%;}
+.supermanimg{
+	padding-left: 10%;
+	padding-right: 10%;
+	height: 200px;
+	width: 100%;
+
+}
+.batman{
+	background: white;
+	font-family: Times;
+	text-align: justify;
+	border-radius:10px;
+}
+.ironman{
+	background: white;
+	font-family: Times;
+	text-align: justify;
+	float: left;
+	border-radius:10px;
+	margin-top: 1%;
+}
+.minion{
+	background: white;
+	font-family: Times;
+	text-align: justify;
+	float: left;
+	border-radius:10px;
+}
+.formstyle{
+	color: white
+}
+.aftersuperhero{
+	color: white;
+	padding-left: 10%;
+}
